@@ -3,9 +3,9 @@
 
 🌱 I’m currently learning Advanced Deep learning concepts.
 
-💬 Ask me about jeelg.com/about
+💬 Ask me about https://jeelg.com/about
 
-📫 How to reach me: jeelg.com
+📫 How to reach me: https://jeelg.com
 
 
 
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderjeel&layout=compact)](https://github.com/coderjeel/github-readme-stats)
+
 ![coderjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderjeel&show_icons=true) <br>
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JeelGondaliya2)](https://github.com/JeelGondaliya2/github-readme-twitter)
 
