@@ -1,8 +1,13 @@
 ### Hi there 👋
 🔭 I’m currently working on Machine learning and deep learning projects.
+
 🌱 I’m currently learning Advanced Deep learning concepts.
+
 💬 Ask me about jeelg.com/about
+
 📫 How to reach me: jeelg.com
+
+
 
 <!--
 **CoderJeel/coderjeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
